@@ -13,6 +13,7 @@ const Home: React.FC = () => {
       <main>
           <div className="container">
             <div className="painel-logo">
+              <img src={WTassoLogo} alt="" width="550" />
             </div>
             <div className="painel-login">teste</div>
           </div>
